@@ -1,0 +1,38 @@
+centralita + chrome
+chat
+formacion odoo
+página omni
+inventario
+grabaciones hisense
+implementar HISENSE SAP
+Aedea sumatorio tiempos agente en cada campaña:  tiempo que está cada agente en cada campaña
+Rentabilidad campaña-agente
+Sistema ticketing evolution
+
+
+conectar pbi - odoo
+vaciar grabaciones   ---
+onedrive juanjo   ---
+Replicar informe de emisión para campañas en base a presenciales   ---
+firmas HISENSE   ---
+llamame   ---
+webagent https  ---
+formacion aedea  ---
+repo hisense nube  ---
+reu SAP  ---
+portatil juanjo ---
+llamadas desde un DDI determinado  ---
+
+la wash instalación teamviewer 9:10 - 13:00    total 90m
+8:00 - 8:20  total 20m
+
+
+
+
+
+
+
+
+
+
+
